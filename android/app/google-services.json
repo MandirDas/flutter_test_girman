@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "372023920258",
+    "firebase_url": "https://girman-test-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "girman-test",
+    "storage_bucket": "girman-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372023920258:android:81ddc0e2df19cbd2a6569b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test_girman_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjwT7CVvimHTSnqYWrQdLIDI0M9mnt4Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
